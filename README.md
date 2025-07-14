@@ -1,7 +1,7 @@
 # Military-Camouflaged-Object-Segmentation-Dataset
-- Download the military camouflage dataset with pixel-level segmentation labels at: https://drive.google.com/drive/folders/171QvPwdxYOSP6wr-tHuYVPP3J8zR3moj.
+- Download the military camouflage dataset with pixel-level segmentation labels at: https://drive.google.com/file/d/1NK8nxM626adBSGXAaUstaQpnGTIltQae
 
-- Here is the augmented dataset, which also includes segmentation labels, generated using BlenderProc: https://drive.google.com/drive/folders/1fIAkPnnhTBRpsvVmTHPBNdIUzkB2lEvr
+- Here is the augmented dataset, which also includes segmentation labels, generated using BlenderProc: https://drive.google.com/file/d/1LLLMFZNZB44neZr9mrV15wlncBDe7vay
 
 ## <a name="CitingMHCDSeg"></a>Citing MHCD-Seg
 If you find our dataset helpful for your research, please consider citing the following BibTeX entry.
