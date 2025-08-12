@@ -48,3 +48,5 @@ If you find our dataset helpful for your research, please consider citing the fo
 Many thanks to these excellent opensource projects 
 * [MHCD2022](https://github.com/liumaozhen-lmz/Military-Camouflage-MHCD2022)
 * [BlenderProc](https://github.com/DLR-RM/BlenderProc)
+* [CamoGen](https://github.com/glederrey/camogen)
+* [Segment Anything](https://github.com/facebookresearch/segment-anything)
