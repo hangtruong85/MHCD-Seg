@@ -1,3 +1,6 @@
+# 3DSMCOS: 3D Model-Based Synthetic Data Pipeline for Camouflaged Object Segmentation
+3DSMCOS is a research project and codebase for generating high-quality synthetic training data and annotations to improve military camouflaged object detection and segmentation. This repository accompanies the paper "3DSMCOS: A 3D Model-Based Synthetic Data Pipeline for Military Camouflaged Object Segmentation with Distractor-Augmented Realism." The project aims to tackle the challenges of detecting well-camouflaged military targets by creating synthetic images with pixel-level labels and automating the labeling of real data. By addressing data scarcity, class imbalance, and the need for precise masks, 3DSMCOS helps vision models better spot camouflaged personnel and equipment in cluttered scenes.
+
 # Military-Camouflaged-Object-Segmentation-Dataset
 - Download the military camouflage dataset with pixel-level segmentation labels at: [MHCD-Seg](https://drive.google.com/file/d/1NK8nxM626adBSGXAaUstaQpnGTIltQae)
 
